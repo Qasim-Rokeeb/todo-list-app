@@ -22,6 +22,9 @@ This is a simple and responsive To-Do List app built using **HTML**, **CSS**, an
 - JavaScript (DOM Manipulation & localStorage)
 
 ---
+## 🌍 Live Demo
+[View Live](https://qasim-rokeeb.github.io/todo-list-app/)
+
 
 ## 📸 Preview
 Here’s a look at the website:
