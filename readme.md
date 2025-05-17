@@ -25,7 +25,8 @@ This is a simple and responsive To-Do List app built using **HTML**, **CSS**, an
 
 ## 📸 Preview
 
-![Screenshot of To-Do List App](./images/image.png)
+![Screenshot of To-Do List App](https://raw.githubusercontent.com/Qasim-Rokeeb/todo-list-app/main/images/image.png)
+
 
 ---
 
