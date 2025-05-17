@@ -1,51 +1,65 @@
-````markdown
+
 # 📝 To-Do List App – Day 1 of 30 Days of JavaScript
 
-This is a simple and responsive To-Do List app built using **HTML**, **CSS**, and **vanilla JavaScript**. It allows users to add, mark, and delete tasks. All tasks are saved in the browser using **localStorage**, so your list stays even after refreshing the page.
+A simple, responsive To-Do List app built with **HTML**, **CSS**, and **vanilla JavaScript**. Users can easily add, complete, and delete tasks. All tasks are saved in the browser using **localStorage**, so your list stays even after a page refresh.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Add new tasks  
-- ✏️ Mark tasks as completed  
-- ❌ Delete tasks  
-- 💾 Saves tasks in local storage  
-- 🎨 Clean, mobile-friendly design
+* ✅ Add new tasks
+* ✏️ Mark tasks as completed
+* ❌ Delete tasks
+* 💾 Persistent storage using localStorage
+* 🎨 Clean, mobile-friendly design
 
 ---
 
 ## 🛠️ Built With
 
-- HTML5  
-- CSS3 (with Flexbox and Gradients)  
-- JavaScript (DOM Manipulation & localStorage)
+* **HTML5**
+* **CSS3** (Flexbox, Gradients)
+* **JavaScript** (DOM Manipulation, localStorage)
 
 ---
-## 🌍 Live Demo
-[View Live](https://qasim-rokeeb.github.io/todo-list-app/)
 
+## 🌍 Live Demo
+
+🔗 [View Live Project](https://qasim-rokeeb.github.io/todo-list-app/)
+
+---
 
 ## 📸 Preview
-Here’s a look at the website:
-![Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/todo-list-app/main/images/image.png)
 
+Here’s a look at the To-Do List App:
+
+![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/todo-list-app/main/images/image.png)
 
 ---
 
 ## 📂 Folder Structure
 
-```plaintext
-todo-list/
+```bash
+todo-list-app/
 │
-├── index.html
-├── style.css
-├── script.js
-└── images/
+├── index.html          # Main HTML file
+├── style.css           # CSS styling
+├── script.js           # JavaScript logic
+└── images/             # Image assets
     ├── checked.png
     ├── unchecked.png
     └── icon.png
-````
+```
+
+---
+
+## 📅 Challenge
+
+This project is part of my **30 Days of JavaScript** challenge. Stay tuned for more daily JavaScript projects!
+
+---
+
+Let me know if you want a badge section, GitHub stats, or contribution guidelines added!
 
 ---
 
