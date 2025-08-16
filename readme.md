@@ -96,6 +96,7 @@ To run the project locally:
 
 **[30 Days of JavaScript Challenge](#)**
 Follow the journey: [@qasimrokeeb](https://x.com/qasimrokeeb)
+Visit my profile: [My Portfolio](https://qasimrokeeb.vercel.app/)
 Hashtags: `#30DaysOfJS` `#BuildInPublic` `#FrontendDev`
 
 ---
